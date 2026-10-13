@@ -16,7 +16,7 @@ Building robust backends, interactive game mechanics, and scalable systems.
 | **Web, Frameworks & Styling** | <img src="https://skillicons.dev/icons?i=rails,react,tailwind,html,css" alt="Web & Frameworks" /> |
 | **Game Engines & Tools** | <img src="https://skillicons.dev/icons?i=godot,unity" alt="Game Engines" /> <br /> `RPG Maker (VX Ace, MV)` • `SugarCube (Twine)` • `DragonRuby GTK` • `ruby.wasm` • `WebAssembly` |
 | **Databases & Caching** | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite,supabase" alt="Databases & Caching" /> |
-| **Bots, Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=discord,discordjs,cloudflare,gcp,docker,git,github" alt="Bots, Cloud & DevOps" /> |
+| **Bots, Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=discord,discordjs,cloudflare,gcp,docker,git,github" alt="Bots, Cloud & DevOps" /> <br /> `Lavalink` |
 | **Testing & Quality Assurance** | `RSpec` • `Minitest` • `Jest` • `Vitest` • `Playwright` |
 | **APIs, Build & Architecture** | `GraphQL` • `gRPC` • `WebSockets` • `Vite` • `Webpack` • `CMake` • `Make` • `Redux` • `Zustand` |
 | **OS, Shells & Editors** | <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,bash,powershell,vscode,visualstudio" alt="OS, Shells & Editors" /> |
@@ -28,8 +28,8 @@ Building robust backends, interactive game mechanics, and scalable systems.
 
 ### 🛠️ Core Focus Areas
 
-*   **🤖 Bot Architecture & Infrastructure**  
-    Designing responsive, scalable event handlers and server systems with **Discord**, **Discord.js**, and custom bot frameworks using **WebSockets** and real-time data pipelines.
+*   **🤖 Bot Architecture & Audio Infrastructure**  
+    Designing responsive, scalable event handlers and real-time audio processing pipelines with **Discord**, **Discord.js**, **Lavalink**, and custom bot frameworks using **WebSockets**.
 *   **🎮 Game Engineering & WebAssembly**  
     Developing native, narrative, and web games across **Godot**, **Unity**, **RPG Maker (VX Ace, MV)**, **SugarCube / Twine**, and **DragonRuby GTK**, leveraging **ruby.wasm** and **Wasm** for low-latency browser execution.
 *   **🌐 Full-Stack Web Development**  
@@ -45,7 +45,7 @@ Building robust backends, interactive game mechanics, and scalable systems.
 
 ### 📌 Current Focus
 
-*   ⚙️ Refining custom bot architectures, package pipelines (**npm**, **pnpm**, **Bun**), and automated workflows
+*   ⚙️ Refining custom bot architectures, **Lavalink** audio nodes, package pipelines (**npm**, **pnpm**, **Bun**), and automated workflows
 *   🎮 Compiling high-performance game logic using **Wasm** for cross-platform and web targets
 *   📐 Deploying containerized services and cloud infrastructure via **Docker**, **GCP**, and **Cloudflare Workers**
 *   🧪 Expanding automated testing suites (**RSpec**, **Vitest**, **Playwright**) across active production projects
