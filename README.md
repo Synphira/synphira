@@ -14,7 +14,7 @@ Building robust backends, interactive game mechanics, and scalable systems.
 | :--- | :--- |
 | **Core Languages & Runtimes** | <img src="https://skillicons.dev/icons?i=ruby,js,ts,cpp,cs,c,java,py,bun,nodejs,wasm" alt="Languages & Runtimes" /> |
 | **Web, Frameworks & Styling** | <img src="https://skillicons.dev/icons?i=rails,react,tailwind,html,css" alt="Web & Frameworks" /> |
-| **Game Engines & Tools** | <img src="https://skillicons.dev/icons?i=godot,unity" alt="Game Engines" /> <br /> `SugarCube (Twine)` • `DragonRuby GTK` • `ruby.wasm` • `WebAssembly` |
+| **Game Engines & Tools** | <img src="https://skillicons.dev/icons?i=godot,unity" alt="Game Engines" /> <br /> `RPG Maker (VX Ace, MV)` • `SugarCube (Twine)` • `DragonRuby GTK` • `ruby.wasm` • `WebAssembly` |
 | **Databases & Caching** | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite,supabase" alt="Databases & Caching" /> |
 | **Bots, Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=discord,discordjs,cloudflare,gcp,docker,git,github" alt="Bots, Cloud & DevOps" /> |
 | **Testing & Quality Assurance** | `RSpec` • `Minitest` • `Jest` • `Vitest` • `Playwright` |
@@ -31,7 +31,7 @@ Building robust backends, interactive game mechanics, and scalable systems.
 *   **🤖 Bot Architecture & Infrastructure**  
     Designing responsive, scalable event handlers and server systems with **Discord**, **Discord.js**, and custom bot frameworks using **WebSockets** and real-time data pipelines.
 *   **🎮 Game Engineering & WebAssembly**  
-    Developing native, narrative, and web games across **Godot**, **Unity**, **SugarCube / Twine**, and **DragonRuby GTK**, leveraging **ruby.wasm** and **Wasm** for low-latency browser execution.
+    Developing native, narrative, and web games across **Godot**, **Unity**, **RPG Maker (VX Ace, MV)**, **SugarCube / Twine**, and **DragonRuby GTK**, leveraging **ruby.wasm** and **Wasm** for low-latency browser execution.
 *   **🌐 Full-Stack Web Development**  
     Building full-featured web applications, state management models (**Zustand**, **Redux**), and **REST/GraphQL** APIs using **Ruby on Rails**, **React**, **Node.js**, **Bun**, and **Tailwind CSS**, bundled with **Vite** or **Webpack**.
 *   **👾 ROM Transmutation & Mechanics**  
